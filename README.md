@@ -24,7 +24,7 @@ This visualizer implements 4 shortest path finding algorithms:
 # Instructions
 Follow these instructions for visualization.
   - Reset weights, source vertex and destination vertex by clicking on **`Reconfigure Grid`** <br/><br/>
-  ![Reconfigure Grid](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/reconfigure-grid.png)
+  ![Reconfigure Grid](https://github.com/putul98/path-visualizer/blob/master/reconfigure-grid.png)
   - Select an algorithm to visualize by clicking on **`Select Algorithm`** <br/><br/>
   ![Select Algorithm](https://github.com/putul98/path-visualizer/blob/master/select-algorithm.png)
   - Visualize selected algorithm by clicking on **`Visualize Algorithm`** <br/><br/>
