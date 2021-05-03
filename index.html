@@ -9,6 +9,7 @@
                     for (all vertices v: adjacent of u) {
                         if (distance[v] == INF) {             // if vertex is not visited
                             distance[v] = distance[u] + 1
+                            q.enqueue(v)
                         }
                     }
               }
