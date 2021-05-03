@@ -30,4 +30,4 @@ Follow these instructions for visualization.
   - Visualize selected algorithm by clicking on **`Visualize Algorithm`** <br/><br/>
   ![Visualize Algorithm](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/visualize.png)
   - Clear shortest path by clicking on **`Clear Path`** <br/><br/>
-  ![Clear Path](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/clear-path.png)
+  ![Clear Path](https://github.com/putul98/path-visualizer/blob/master/clear-path.png)
