@@ -28,6 +28,6 @@ Follow these instructions for visualization.
   - Select an algorithm to visualize by clicking on **`Select Algorithm`** <br/><br/>
   ![Select Algorithm](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/select-algorithm.png)
   - Visualize selected algorithm by clicking on **`Visualize Algorithm`** <br/><br/>
-  ![Visualize Algorithm](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/visualize.png)
+  ![Visualize Algorithm](https://github.com/putul98/path-visualizer/blob/master/visualize.png)
   - Clear shortest path by clicking on **`Clear Path`** <br/><br/>
   ![Clear Path](https://github.com/putul98/path-visualizer/blob/master/clear-path.png)
