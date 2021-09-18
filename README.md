@@ -1,4 +1,4 @@
-![Preview of Bellman-Ford Algorithm Visualization](https://github.com/putul98/path-visualizer/blob/master/preview.png"preview of Bellman Ford Shortest Path")
+![Preview of Bellman-Ford Algorithm Visualization](https://github.com/bhubanendra-mishra/path-visualizer/blob/master/preview.png"preview of Bellman Ford Shortest Path")
 # Shortest Path Algorithms Visualizer
 ### Live version of this web application: [Shortest Path Algorithms Visualizer.](https://putul98.github.io/path-visualizer/)
 Welcome to Shortest Path Algorithms Visualizer. This is a visualization tool to help you visualize how the algorithms, used for solving Shortest Path Problem, work in real time. [Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem) in graph theory, is a [Combinatorial Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problem. The problem requires one, to find a path between a source vertex and a destination vertex, such that travelling through the found path, costs the least. The weight of an edge joining two vertices is attributed as the cost of tarvelling between those two vertices in the graph.
@@ -24,10 +24,10 @@ This visualizer implements 4 shortest path finding algorithms:
 # Instructions
 Follow these instructions for visualization.
   - Reset weights, source vertex and destination vertex by clicking on **`Reconfigure Grid`** <br/><br/>
-  ![Reconfigure Grid](https://github.com/putul98/path-visualizer/blob/master/reconfigure-grid.png)
+  ![Reconfigure Grid](https://github.com/bhubanendra-mishra/path-visualizer/blob/master/reconfigure-grid.png)
   - Select an algorithm to visualize by clicking on **`Select Algorithm`** <br/><br/>
-  ![Select Algorithm](https://github.com/putul98/path-visualizer/blob/master/select-algorithm.png)
+  ![Select Algorithm](https://github.com/bhubanendra-mishra/path-visualizer/blob/master/select-algorithm.png)
   - Visualize selected algorithm by clicking on **`Visualize Algorithm`** <br/><br/>
-  ![Visualize Algorithm](https://github.com/putul98/path-visualizer/blob/master/visualize.png)
+  ![Visualize Algorithm](https://github.com/bhubanendra-mishra/path-visualizer/blob/master/visualize.png)
   - Clear shortest path by clicking on **`Clear Path`** <br/><br/>
-  ![Clear Path](https://github.com/putul98/path-visualizer/blob/master/clear-path.png)
+  ![Clear Path](https://github.com/bhubanendra-mishra/path-visualizer/blob/master/clear-path.png)
